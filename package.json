@@ -17,7 +17,8 @@
   "keywords": [
     "vue2",
     "template",
-    "cli"
+    "cli",
+    "element-ui"
   ],
   "author": {
     "name": "fujia",
