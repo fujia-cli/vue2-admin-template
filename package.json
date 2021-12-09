@@ -1,6 +1,6 @@
 {
   "name": "@fujia/vue2-admin-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A template for admin interfaces built on vue@2.x and uses the UI Toolkit element-ui",
   "files": [
     "template"
