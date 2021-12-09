@@ -1,0 +1,36 @@
+{
+  "name": "@fujia/vue2-admin-template",
+  "version": "0.1.0",
+  "description": "A template for admin interfaces built on vue@2.x and uses the UI Toolkit element-ui",
+  "files": [
+    "template"
+  ],
+  "scripts": {
+    "prepare": "husky install",
+    "release": "sh scripts/release.sh"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "keywords": [
+    "vue2",
+    "template",
+    "cli"
+  ],
+  "author": {
+    "name": "fujia",
+    "url": "https://github.com/fushenguang",
+    "email": "fujia.site@outlook.com"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@commitlint/config-conventional": "^15.0.0",
+    "commitlint": "^15.0.0",
+    "husky": "^7.0.4"
+  }
+}
